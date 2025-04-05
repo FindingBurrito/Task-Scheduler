@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1743826294 source:c:\users\viki\onedrive\desktop\task_scheduler\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<algorithm>
+	<string>
+	<iomanip>
+
